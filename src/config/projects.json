@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "Farm Land 1 ver. 1.0",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium voluptatem nisi omnis tenetur minus porro aperiam quam in ab enim adipisci, natus dignissimos nulla pariatur cumque. Ab asperiores reprehenderit blanditiis eaque fugiat tenetur quisquam! Incidunt expedita tempora illum doloremque accusamus. Eaque sapiente natus, aliquid tempora enim delectus asperiores voluptatum soluta?",
+        "image" : "/firmware.svg"
+    },
+    {
+        "title" : "My Warehouse ver. Beta",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium voluptatem nisi omnis tenetur minus porro aperiam quam in ab enim adipisci, natus dignissimos nulla pariatur cumque. Ab asperiores reprehenderit blanditiis eaque fugiat tenetur quisquam! Incidunt expedita tempora illum doloremque accusamus. Eaque sapiente natus, aliquid tempora enim delectus asperiores voluptatum soluta?",
+        "image" : "/friends.svg"
+    },
+    {
+        "title" : "Account Manager ver. 1.0", 
+        "description" : "Lorem ipsum dolor it amet consectetur adipisicing elit. Praesentium voluptatem nisi omnis tenetur minus porro aperiam quam in ab enim adipisci, natus dignissimos nulla pariatur cumque. Ab asperiores reprehenderit blanditiis eaque fugiat tenetur quisquam! Incidunt expedita tempora illum doloremque accusamus. Eaque sapiente natus, aliquid tempora enim delectus asperiores voluptatum soluta?",
+        "image" : "/mobile.svg"
+    }
+]
